@@ -1,0 +1,7 @@
+[{"id_categoria":1, "nombre":"Juguetes", "descripcion":"Articulos de entretenimiento infantil y familiar"},
+ {"id_categoria":2, "nombre":"Tecnolog\u00eda", "descripcion":"Computadoras y telefon\u00eda, asi como accesorios para los mismos"},
+ {"id_categoria":3, "nombre":"Linea Blanca", "descripcion":"Art\u00edculos para el hogar como refrigeradores, estufas y demas"},
+ {"id_categoria":4, "nombre":"Ropa para dama", "descripcion":"Ropa y accesorios para mujeres"},
+ {"id_categoria":5, "nombre":"Ropa para caballero", "descripcion":"Ropa y accesorios para hombres"},
+ {"id_categoria":6, "nombre":"Ropa infantil", "descripcion":"Ropa y accesorios para ni\u00f1os"},
+ {"id_categoria":7, "nombre":"Libreria", "descripcion":"Libros, revistas, comics y dem\u00e1s articulos escritos"}]
